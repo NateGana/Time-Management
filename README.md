@@ -5,7 +5,7 @@
 ChronoFocus is a distraction-free productivity workspace that combines a Pomodoro timer, a time-block task manager, a daily focus tracker, and ambient background sound — all in one clean, dark-themed interface. No installs, no sign-ups, no tracking. Open it and start focusing.
 
 🔗 **[Launch ChronoFocus →](#)**
-*(Replace this link with your live GitHub Pages URL once deployed.)*
+https://nategana.github.io/Time-Management/
 
 ---
 
